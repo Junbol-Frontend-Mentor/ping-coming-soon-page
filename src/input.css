@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
+
+/*font-family: "Libre Franklin", sans-serif;*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import 'flowbite';
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+section,
+header {
+  padding: 0;
+  margin: 0;
+}
+
+/* Your custom styles */
+body,
+section,
+header {
+  padding: 0;
+  margin: 0;
+}
+
